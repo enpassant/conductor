@@ -1,9 +1,9 @@
 # Conductor
 Simple orchestration application for docker.
 
-# Features
+## Features
 | Feature                                                   | ETA 1.0    |
-| ---                                                       |
+| ----------------------------------------------------------|------------|
 | Manage nodes                                              | 2015.02.22 |
 | Manage services                                           | 2015.03.08 |
 | Manage dependencies between services                      | 2015.03.22 |
